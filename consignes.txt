@@ -1,0 +1,7 @@
+votre_site/
+├── index.php
+├── css/
+│   └── style.css
+└── includes/
+    ├── header.php
+    └── footer.php
